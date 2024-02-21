@@ -1,5 +1,5 @@
 ---
-name: User Userson
+name: Sam Bock
 avatar: /uifaces-abstract.jpg
 ---
 
