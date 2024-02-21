@@ -1,6 +1,6 @@
 ---
 name: Sam Bock
-avatar: /images/bio/avatar.jpg
+avatar: /src/images/bio/avatar.png
 ---
 
 A user of the Astro LTree theme.
