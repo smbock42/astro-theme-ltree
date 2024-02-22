@@ -1,0 +1,21 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "affected": {
+    "defaultBase": "master"
+  },
+  "nxCloudAccessToken": "NWExN2I4YzMtNGViOS00ZjQzLWExYTItNTI3ZDllMjk4Y2JkfHJlYWQtd3JpdGU=",
+  "targetDefaults": {
+    "dev": {
+      "cache": true
+    },
+    "start": {
+      "cache": true
+    },
+    "build": {
+      "cache": true
+    },
+    "astro": {
+      "cache": true
+    }
+  }
+}
