@@ -3,4 +3,4 @@ name: Sam Bock
 avatar: /avatar.png
 ---
 
-Testing
+Cal Poly Computer Science - Class of 2025
